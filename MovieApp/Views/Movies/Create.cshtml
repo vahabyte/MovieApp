@@ -1,0 +1,52 @@
+﻿@model Movie
+
+<h3>FİLM EKLEME</h3>
+
+<hr />
+
+
+<form method="post" asp-controller="Movies" asp-action="Create">
+    
+    <div class="form-label">
+
+        <label asp-for="Title"></label>
+        <input  asp-for="Title" class="form-control" value="" />
+        <span class="text-danger" asp-validation-for="Title"></span>
+
+    </div>
+
+    <div class="form-label">
+
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control" value=""></textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+
+    </div>
+
+
+
+    <div class="form-label">
+
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control" value="" />
+        <span class="text-danger" asp-validation-for="ImageUrl"></span>
+
+    </div>
+
+
+   @*  <div class="form-label">
+
+        <label asp-for="GenreId"></label>
+
+        <select asp-for="GenreId" class="form-control" asp-items="@ViewBag.Genres">
+            <option selected disabled>Seçiniz</option>      
+</select>
+
+        <span class="text-danger" asp-validation-for="GenreId"></span>
+     
+
+    </div>
+ *@
+   <button type="submit" class="btn btn-primary col-12 mt-3">EKLE</button>
+
+</form>

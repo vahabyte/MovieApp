@@ -1,0 +1,26 @@
+﻿@model Movie
+<div class="row">
+
+    <div class="col-12">
+
+        <center>
+
+            <div class="card-deck mt-3">
+                <div class="card">
+                    <center> <img class="card-img" src="~/img/@Model.ImageUrl" alt="@Model.Title" style="width:250px"></center>
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Title</h5>
+                        <p class="card-text">@Html.Raw(Model.Description)</p>
+   
+                    </div>
+                </div>
+            </div>
+
+
+        </center>
+
+    </div>
+
+
+
+</div>

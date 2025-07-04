@@ -1,0 +1,55 @@
+﻿@model Movie
+
+<h3>FİLM DÜZENLEME</h3>
+
+<hr />
+
+
+<form method="post" asp-controller="Movies" asp-action="Edit">
+    <input type="hidden" name="MovieId" value="@Model.MovieId" />
+    <div class="form-label">
+
+        <label asp-for="Title"></label>
+
+        <input asp-for="Title" class="form-control" value="@Model.Title" />
+        <span class="text-danger" asp-validation-for="Title"></span>
+
+    </div>
+
+    <div class="form-label">
+
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control">@Model.Description</textarea>
+        <span class="text-danger" asp-validation-for="Description"></span>
+
+    </div>
+
+
+
+
+    <div class="form-label">
+
+        <label asp-for="ImageUrl"></label>
+        <input asp-for="ImageUrl" class="form-control" value="@Model.ImageUrl" />
+        <span class="text-danger" asp-validation-for="ImageUrl"></span>
+
+    </div>
+
+
+   @*  <div class="form-label">
+
+        <label asp-for="GenreId"></label>
+        <select asp-for ="GenreId" class="form-control" asp-items="@ViewBag.Genres">
+
+            <option selected disabled >Seçiniz</option>
+                
+
+</select>
+        <span class="text-danger" asp-validation-for="GenreId"></span>
+
+
+    </div> *@
+
+    <button type="submit" class="btn btn-primary col-12 mt-3">Güncelle</button>
+
+</form>

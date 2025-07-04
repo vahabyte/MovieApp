@@ -1,0 +1,98 @@
+﻿@model AdminCreateMovieViewModel
+
+<h3>Create Movie</h3>
+
+<hr />
+<form method="post" asp-controller="Admin" asp-action="MovieCreate" enctype="multipart/form-data">
+    <div class="row">
+
+        <div class="col-md-8">
+            <div asp-validation-summary="All"></div>
+            <div class="form-label">
+
+                <label asp-for="Title"></label>
+
+                <input asp-for="Title" class="form-control" />
+                <span class="text-danger" asp-validation-for="Title"></span>
+
+            </div>
+
+            <div class="form-label">
+
+                <label asp-for="Description"></label>
+                <textarea asp-for="Description" name="Description" class="form-control"></textarea>
+                <span class="text-danger" asp-validation-for="Description"></span>
+
+            </div>
+
+            <div class="form-label">
+
+                <label asp-for="ReleaseDate"></label>
+
+                <input asp-for="ReleaseDate" class="form-control" />
+                <span class="text-danger" asp-validation-for="ReleaseDate"></span>
+
+            </div>
+
+            <div class="form-label">
+
+
+            </div>
+
+            <div class="form-label">
+                <label>Film görseli</label>
+                <input type="file" name="file" class="form-control" />
+
+            </div>
+
+
+
+            <label asp-for="IsClassic">Klasik Film</label>
+
+            <input asp-for="IsClassic" type="checkbox" />
+            <span class="text-danger" asp-validation-for="IsClassic"></span>
+
+            <button type="submit" class="btn btn-primary col-12 mt-3 mb-3">Ekle</button>
+
+
+        </div>
+
+        <div class="col-md-4">
+
+            <span class="text-danger" asp-validation-for="GenreIds"></span>
+            @foreach (var genre in (List<Genre>)ViewBag.Genres)
+            {
+                <div class="form-check">
+                    <input class="form-check-input"
+                           type="checkbox"
+                           name="GenreIds"
+                           value="@genre.GenreId"
+                           id="genre_@(genre.GenreId)">
+                    <label class="form-check-label" for="genre_@(genre.GenreId)">
+
+                        @genre.Name
+
+                    </label>
+                </div>
+            }
+
+
+
+        </div>
+
+
+    </div>
+</form>
+
+@section scripts {
+
+    <script src="https://cdn.ckeditor.com/4.16.0/basic/ckeditor.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.1/jquery.validate.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.js"></script>
+    <script>
+
+        CKEDITOR.replace("Description");
+
+    </script>
+}

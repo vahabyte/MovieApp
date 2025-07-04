@@ -1,0 +1,2752 @@
+{
+  "Version": 1,
+  "Hash": "BTuvpcLa5HFHLPjNF6kGX6KrSZyonkOzmpZNChlu3Lc=",
+  "Source": "MovieApp",
+  "BasePath": "_content/MovieApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MovieApp\\wwwroot",
+      "Source": "MovieApp",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\eckowwdwt0-hy1c2auhqz.gz",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/bootstrap.min.css#[.{fingerprint=hy1c2auhqz}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "aqbxvhurz4",
+      "Integrity": "orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\i3eg676hm3-n2fyjk766i.gz",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint=n2fyjk766i}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "lohandbooz",
+      "Integrity": "+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\mpfpktt74l-7g010t2zdz.gz",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "jss/bootstrap.bundle.min.js#[.{fingerprint=7g010t2zdz}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "mo4st9iuhr",
+      "Integrity": "SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\nvijt59y5v-bfevd61e0d.gz",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "jss/bootstrap.bundle.min#[.{fingerprint=bfevd61e0d}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ozx237vc73",
+      "Integrity": "lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\w2z9jos68x-1ny0989qvw.gz",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/style#[.{fingerprint=1ny0989qvw}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9o9rzw0ppw",
+      "Integrity": "uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "n2fyjk766i",
+      "Integrity": "zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hy1c2auhqz",
+      "Integrity": "6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1ny0989qvw",
+      "Integrity": "o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\1.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o5b843ow91",
+      "Integrity": "hCWVZLK1LHz68FXfx95gCnSJXmk3+b2vaauLbAd3FT4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\2.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dlzih8if6k",
+      "Integrity": "sTVRHFfrm58KHtO95qc9U7SKNQ7oTqcF9DrX4paOJTY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\3.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nqr8jj1ec0",
+      "Integrity": "b+3psv7uk1pcgJlhRHW6meKR74Cnxo8r/H9zSS7qfZ8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\3.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\4.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h3io6f8mc9",
+      "Integrity": "ndMsvEwDV4gnGbSExPBBJ5OS7VtQI3uBizvrX8kuLYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\5.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xebjropo8t",
+      "Integrity": "d1SUu/9Wm4/PuxryWyQYfusj3nKFQT3mDMhWOREp7dY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\5.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\6.jpg",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4wzj4y4k63",
+      "Integrity": "dMhJ+wQC8UQY7hAjhH4wYbGXoWUk7j1MDXc+XLhvPhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person1.png",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/person1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fw51arsboo",
+      "Integrity": "H+qKGR1ljoNXzGFRQYc9gyz492CStxZZ+HUPnIZdjeg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\person1.png"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person2.PNG",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/person2#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "euhefcy4ot",
+      "Integrity": "1pCva2bL55Zr45NONivTD/A9FHi3jvD41NRw10dVU1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\person2.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person3.PNG",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/person3#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cxns9lbx3a",
+      "Integrity": "IHWxkOixKtInO+3F64rtdBv9t6davcqLl3CkoAQ21GE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\person3.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person4.PNG",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "img/person4#[.{fingerprint}]?.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xkkbjbtxo1",
+      "Integrity": "8UsLCkpCyXcQzmAUpxJI6ypTjugn2kcmpuVGTWI7VR8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\person4.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "jss/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bfevd61e0d",
+      "Integrity": "ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jss\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map",
+      "SourceId": "MovieApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\",
+      "BasePath": "_content/MovieApp",
+      "RelativePath": "jss/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7g010t2zdz",
+      "Integrity": "edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\jss\\bootstrap.bundle.min.js.map"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\i3eg676hm3-n2fyjk766i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032170892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31083"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\i3eg676hm3-n2fyjk766i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.hy1c2auhqz.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\eckowwdwt0-hy1c2auhqz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010882932"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91886"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy1c2auhqz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.hy1c2auhqz.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy1c2auhqz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.hy1c2auhqz.map.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\eckowwdwt0-hy1c2auhqz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hy1c2auhqz"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\eckowwdwt0-hy1c2auhqz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000010882932"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91886"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "589407"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6V4ilQ0Hy45mqA89dEbzxeQcuTG7beY0qqO4tnKqd44="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\eckowwdwt0-hy1c2auhqz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "91886"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-orw+BgYu2HtTnoN9J8GQ/TyhhVvmEhCImqMNbiLb1hk="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.n2fyjk766i.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\i3eg676hm3-n2fyjk766i.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000032170892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31083"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2fyjk766i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.n2fyjk766i.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "231913"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2fyjk766i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zzPh8NflvEInFbVSzLYGVMLOn0j0kfsjq/UlNeMBRYw="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap.min.n2fyjk766i.css.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\i3eg676hm3-n2fyjk766i.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "31083"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n2fyjk766i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+wwxmDNaQn+U8pPfxpG9LZkKG2H1I2blGVcUIb3ihbs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.1ny0989qvw.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\w2z9jos68x-1ny0989qvw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ny0989qvw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.1ny0989qvw.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ny0989qvw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.1ny0989qvw.css.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\w2z9jos68x-1ny0989qvw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1ny0989qvw"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\w2z9jos68x-1ny0989qvw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.008474576271"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-o3eaPrlcTafZEt8zubsEtAbZgU+6oqwtdTAuEq0PmDA="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\w2z9jos68x-1ny0989qvw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 14 May 2025 11:12:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uSz2oZV2CX5X61jIcBqgndl1TJVqv+pyUrSB7ogFLmg="
+        }
+      ]
+    },
+    {
+      "Route": "img/1.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hCWVZLK1LHz68FXfx95gCnSJXmk3+b2vaauLbAd3FT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:34:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hCWVZLK1LHz68FXfx95gCnSJXmk3+b2vaauLbAd3FT4="
+        }
+      ]
+    },
+    {
+      "Route": "img/1.o5b843ow91.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "259636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hCWVZLK1LHz68FXfx95gCnSJXmk3+b2vaauLbAd3FT4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:34:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o5b843ow91"
+        },
+        {
+          "Name": "label",
+          "Value": "img/1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hCWVZLK1LHz68FXfx95gCnSJXmk3+b2vaauLbAd3FT4="
+        }
+      ]
+    },
+    {
+      "Route": "img/2.dlzih8if6k.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTVRHFfrm58KHtO95qc9U7SKNQ7oTqcF9DrX4paOJTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:36:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dlzih8if6k"
+        },
+        {
+          "Name": "label",
+          "Value": "img/2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTVRHFfrm58KHtO95qc9U7SKNQ7oTqcF9DrX4paOJTY="
+        }
+      ]
+    },
+    {
+      "Route": "img/2.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "328766"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sTVRHFfrm58KHtO95qc9U7SKNQ7oTqcF9DrX4paOJTY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:36:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sTVRHFfrm58KHtO95qc9U7SKNQ7oTqcF9DrX4paOJTY="
+        }
+      ]
+    },
+    {
+      "Route": "img/3.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+3psv7uk1pcgJlhRHW6meKR74Cnxo8r/H9zSS7qfZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:37:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+3psv7uk1pcgJlhRHW6meKR74Cnxo8r/H9zSS7qfZ8="
+        }
+      ]
+    },
+    {
+      "Route": "img/3.nqr8jj1ec0.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "399502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b+3psv7uk1pcgJlhRHW6meKR74Cnxo8r/H9zSS7qfZ8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:37:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nqr8jj1ec0"
+        },
+        {
+          "Name": "label",
+          "Value": "img/3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b+3psv7uk1pcgJlhRHW6meKR74Cnxo8r/H9zSS7qfZ8="
+        }
+      ]
+    },
+    {
+      "Route": "img/4.h3io6f8mc9.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndMsvEwDV4gnGbSExPBBJ5OS7VtQI3uBizvrX8kuLYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h3io6f8mc9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndMsvEwDV4gnGbSExPBBJ5OS7VtQI3uBizvrX8kuLYQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/4.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "546374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ndMsvEwDV4gnGbSExPBBJ5OS7VtQI3uBizvrX8kuLYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:37:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ndMsvEwDV4gnGbSExPBBJ5OS7VtQI3uBizvrX8kuLYQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/5.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1SUu/9Wm4/PuxryWyQYfusj3nKFQT3mDMhWOREp7dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1SUu/9Wm4/PuxryWyQYfusj3nKFQT3mDMhWOREp7dY="
+        }
+      ]
+    },
+    {
+      "Route": "img/5.xebjropo8t.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135374"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d1SUu/9Wm4/PuxryWyQYfusj3nKFQT3mDMhWOREp7dY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:38:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xebjropo8t"
+        },
+        {
+          "Name": "label",
+          "Value": "img/5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d1SUu/9Wm4/PuxryWyQYfusj3nKFQT3mDMhWOREp7dY="
+        }
+      ]
+    },
+    {
+      "Route": "img/6.4wzj4y4k63.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMhJ+wQC8UQY7hAjhH4wYbGXoWUk7j1MDXc+XLhvPhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4wzj4y4k63"
+        },
+        {
+          "Name": "label",
+          "Value": "img/6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMhJ+wQC8UQY7hAjhH4wYbGXoWUk7j1MDXc+XLhvPhk="
+        }
+      ]
+    },
+    {
+      "Route": "img/6.jpg",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "184674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dMhJ+wQC8UQY7hAjhH4wYbGXoWUk7j1MDXc+XLhvPhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 14:39:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dMhJ+wQC8UQY7hAjhH4wYbGXoWUk7j1MDXc+XLhvPhk="
+        }
+      ]
+    },
+    {
+      "Route": "img/person1.fw51arsboo.png",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+qKGR1ljoNXzGFRQYc9gyz492CStxZZ+HUPnIZdjeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fw51arsboo"
+        },
+        {
+          "Name": "label",
+          "Value": "img/person1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+qKGR1ljoNXzGFRQYc9gyz492CStxZZ+HUPnIZdjeg="
+        }
+      ]
+    },
+    {
+      "Route": "img/person1.png",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "671918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H+qKGR1ljoNXzGFRQYc9gyz492CStxZZ+HUPnIZdjeg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:52:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H+qKGR1ljoNXzGFRQYc9gyz492CStxZZ+HUPnIZdjeg="
+        }
+      ]
+    },
+    {
+      "Route": "img/person2.euhefcy4ot.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person2.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1pCva2bL55Zr45NONivTD/A9FHi3jvD41NRw10dVU1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "euhefcy4ot"
+        },
+        {
+          "Name": "label",
+          "Value": "img/person2.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1pCva2bL55Zr45NONivTD/A9FHi3jvD41NRw10dVU1M="
+        }
+      ]
+    },
+    {
+      "Route": "img/person2.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person2.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "960154"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1pCva2bL55Zr45NONivTD/A9FHi3jvD41NRw10dVU1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1pCva2bL55Zr45NONivTD/A9FHi3jvD41NRw10dVU1M="
+        }
+      ]
+    },
+    {
+      "Route": "img/person3.cxns9lbx3a.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person3.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHWxkOixKtInO+3F64rtdBv9t6davcqLl3CkoAQ21GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cxns9lbx3a"
+        },
+        {
+          "Name": "label",
+          "Value": "img/person3.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHWxkOixKtInO+3F64rtdBv9t6davcqLl3CkoAQ21GE="
+        }
+      ]
+    },
+    {
+      "Route": "img/person3.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person3.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "271338"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHWxkOixKtInO+3F64rtdBv9t6davcqLl3CkoAQ21GE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:53:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHWxkOixKtInO+3F64rtdBv9t6davcqLl3CkoAQ21GE="
+        }
+      ]
+    },
+    {
+      "Route": "img/person4.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person4.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UsLCkpCyXcQzmAUpxJI6ypTjugn2kcmpuVGTWI7VR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UsLCkpCyXcQzmAUpxJI6ypTjugn2kcmpuVGTWI7VR8="
+        }
+      ]
+    },
+    {
+      "Route": "img/person4.xkkbjbtxo1.PNG",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person4.PNG",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "922437"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8UsLCkpCyXcQzmAUpxJI6ypTjugn2kcmpuVGTWI7VR8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 13 May 2025 19:54:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xkkbjbtxo1"
+        },
+        {
+          "Name": "label",
+          "Value": "img/person4.PNG"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8UsLCkpCyXcQzmAUpxJI6ypTjugn2kcmpuVGTWI7VR8="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.bfevd61e0d.js",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\nvijt59y5v-bfevd61e0d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041942790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23841"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfevd61e0d"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.bfevd61e0d.js",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfevd61e0d"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.bfevd61e0d.js.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\nvijt59y5v-bfevd61e0d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bfevd61e0d"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\nvijt59y5v-bfevd61e0d.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041942790"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23841"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ORBCb//WwUWwNh+EjsvO97snO3mAJ1+jhMzrlPBTYSQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.7g010t2zdz.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\mpfpktt74l-7g010t2zdz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011559892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86505"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7g010t2zdz"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.7g010t2zdz.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7g010t2zdz"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.7g010t2zdz.map.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\mpfpktt74l-7g010t2zdz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7g010t2zdz"
+        },
+        {
+          "Name": "label",
+          "Value": "jss/bootstrap.bundle.min.js.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\nvijt59y5v-bfevd61e0d.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lGdqVil0rzhXn99TLdB/phTMZar8wvOo0CqOTZ3tdlU="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\mpfpktt74l-7g010t2zdz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000011559892"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86505"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "332229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-edPQ7BeYucniO6//2HhRgG/MDudyk2f6JPuDOItsanQ="
+        }
+      ]
+    },
+    {
+      "Route": "jss/bootstrap.bundle.min.js.map.gz",
+      "AssetFile": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\obj\\Debug\\net9.0\\compressed\\mpfpktt74l-7g010t2zdz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "86505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 04 Apr 2025 18:16:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-SlitGbmEtOGUTuF3gt+pTo2+v8QuE54hP9qdCDv1I4M="
+        }
+      ]
+    }
+  ]
+}

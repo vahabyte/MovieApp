@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person1.png",
+      "PackagePath": "staticwebassets\\img\\person1.png"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person2.PNG",
+      "PackagePath": "staticwebassets\\img\\person2.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person3.PNG",
+      "PackagePath": "staticwebassets\\img\\person3.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\img\\person4.PNG",
+      "PackagePath": "staticwebassets\\img\\person4.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\jss\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vahap\\source\\repos\\MovieApp\\MovieApp\\wwwroot\\jss\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\jss\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MovieApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MovieApp.props",
+      "PackagePath": "build\\MovieApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieApp.props",
+      "PackagePath": "buildMultiTargeting\\MovieApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MovieApp.props",
+      "PackagePath": "buildTransitive\\MovieApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

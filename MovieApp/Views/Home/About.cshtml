@@ -1,0 +1,11 @@
+﻿@model List<Genre>
+
+       <h3>Hakkımızda sayfası</h3>
+
+       @section menu{
+
+           @* @await Html.PartialAsync("_menu",Model) *@
+
+    @await Component.InvokeAsync("Genres")
+
+       }
