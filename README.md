@@ -1,9 +1,9 @@
 
 ### Film Ekleme
-![Film Ekleme](./Screenshots/filmekleme.png)
+![Film Ekleme](./Screenshots/filmekleme.PNG)
 
 ### Film Listesi
-![Film Listesi](./Screenshots/filmlistesi.png)
+![Film Listesi](./Screenshots/filmlistesi.PNG)
 
 # MovieApp
 
@@ -84,19 +84,19 @@ Mobil Duyarlılık: Tüm sayfalar Bootstrap 5 ile responsive tasarlanmıştır; 
 ## Ekran Görüntüleri
 
 ### Anasayfa
-![Anasayfa](./Screenshots/anasayfa.png)
+![Anasayfa](./Screenshots/anasayfa.PNG)
 
 ### Film Ekleme
-![Film Ekleme](./Screenshots/filmekleme.png)
+![Film Ekleme](./Screenshots/filmekleme.PNG)
 
 ### Film Listesi
-![Film Listesi](./Screenshots/filmlistesi.png)
+![Film Listesi](./Screenshots/filmlistesi.PNG)
 
 ### Kullanıcı Oluşturma
-![Kullanıcı Oluşturma](./Screenshots/kullaniciolusturma.png)
+![Kullanıcı Oluşturma](./Screenshots/kullaniciolusturma.PNG)
 
 ### Tür Düzenleme
-![Tür Düzenleme](./Screenshots/turduzenleme.png)
+![Tür Düzenleme](./Screenshots/turduzenleme.PNG)
 
 ### Tür Listesi
-![Tür Listesi](./Screenshots/turlistesi.png)
+![Tür Listesi](./Screenshots/turlistesi.PNG)
